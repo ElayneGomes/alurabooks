@@ -15,6 +15,7 @@ hr {
     .rodapé {
         display: flex;
         justify-content: space-around;
+        height: 100%;
     }
 
     .lista-rodapé {
@@ -51,5 +52,6 @@ hr {
 
     .rodapé {
         padding: 3em 0;
+        height: auto;
     }
 }

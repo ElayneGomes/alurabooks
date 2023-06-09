@@ -13,3 +13,6 @@
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura.
